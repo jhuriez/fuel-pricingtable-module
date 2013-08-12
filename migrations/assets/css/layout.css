@@ -1,0 +1,14 @@
+body {
+  padding-top: 70px;
+}
+
+table .glyphicon {
+    font-size: 28px;
+}
+
+.table-attribute-title-info tbody tr{
+    height: 57px;
+}
+.table-attribute-title-info thead tr{
+    height: 36px;
+}
