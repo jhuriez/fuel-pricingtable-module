@@ -1,6 +1,6 @@
 # Pricing table module
 
-This is a module for manage easily the package 'fuel-lbPricingTable'.
+This is a module for manage easily the package 'fuel-lbPricingTable' (https://github.com/jhuriez/fuel-lbPricingTable).
 
 It's contains 
 - A backoffice with Twitter Bootstrap 3 and jQuery UI
